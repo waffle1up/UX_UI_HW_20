@@ -1,0 +1,13 @@
+p,h1 {
+    color: white;
+}
+.jumbotron{
+    background-color: #132C43;
+}
+#hero_image_1{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    opacity: 20%;
+}
