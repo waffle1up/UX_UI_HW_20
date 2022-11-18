@@ -1,9 +1,7 @@
-p,h1 {
+.intro_statement,h1 {
     color: white;
 }
-.jumbotron{
-    background-color: #132C43;
-}
+
 #hero_image_1{
     background-repeat: no-repeat;
     background-size: cover;
@@ -11,3 +9,16 @@ p,h1 {
 img{
     opacity: 20%;
 }
+.card{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    grid-row: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+footer{
+    background-color: #6494c1;
+    
+
+}
+
